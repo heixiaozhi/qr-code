@@ -46,6 +46,7 @@ body {
 }
 
 .qr-code__content {
+  padding: 0 var(--spacing-200);
   text-align: center;
 }
 
